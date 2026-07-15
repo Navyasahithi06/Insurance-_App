@@ -158,8 +158,8 @@ pip install streamlit numpy scikit-learn
 <img width="2518" height="1104" alt="Screenshot 2026-07-15 105823" src="https://github.com/user-attachments/assets/e57d79c2-1223-453f-9dab-5faca1b0e9aa" />
 ## prediction
 <img width="1478" height="260" alt="Screenshot 2026-07-15 105857" src="https://github.com/user-attachments/assets/17b6ddda-522c-43ae-aec8-9317a5623da5" />
-## overall vedio
-"C:\Users\navya\Videos\Screen Recordings\Screen Recording 2026-07-15 110439.mp4"
+## vedio
+https://drive.google.com/file/d/1ZozHPxzXwh2AiNGR4ew1AAo118LoNgsV/view?usp=sharing
 
 
 ## 🔮 Future Enhancements
